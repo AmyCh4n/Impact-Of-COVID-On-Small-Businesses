@@ -1,4 +1,4 @@
-Analysis code for Smart Cities and Urban Analytics dissertation
+Analysis for Smart Cities and Urban Analytics dissertation
 
 Data sources used:
 
