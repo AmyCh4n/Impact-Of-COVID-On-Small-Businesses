@@ -1,5 +1,6 @@
 
 Data sources used:
+
 Financial Access Made Easy (FAME), 2021. Fame | The definitive source of information on companies in the UK and Ireland | BvD, electronic dataset, Fame.bvdinfo.com. Available at: <https://fame.bvdinfo.com/version-2021720/fame/Companies/Login?returnUrl=%2Fversion-2021720%2Ffame%2FCompanies> [Accessed 6 August 2021].
 
 Freemaptools, 2021. Download UK Postcodes with Latitude and Longitude, electronic dataset, Freemaptools.com. Available at: <https://www.freemaptools.com/download-uk-postcode-lat-lng.htm> [Accessed 6 August 2021].
