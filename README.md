@@ -16,4 +16,3 @@ London Datastore, 2020c. Postcode Directory for London – London Datastore, ele
 
 Office for National Statistics (ONS), 2020. Business population estimates, electronic dataset, GOV.UK. Available at: <https://www.gov.uk/government/collections/business-population-estimates> [Accessed 6 August 2021].
 
-![image](https://user-images.githubusercontent.com/41112679/129798571-f70db293-a60c-4f48-84b4-dfe975cb8d27.png)
