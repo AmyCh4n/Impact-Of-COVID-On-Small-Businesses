@@ -1,3 +1,5 @@
+Exploring the Impact of COVID-19 on Small Businesses in London
+
 Analysis for Smart Cities and Urban Analytics dissertation
 
 Data sources used:
